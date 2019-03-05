@@ -1,7 +1,7 @@
 #!/usr/bin/bash   pyhton 3.py
 # __*__   coding:utf-8  __*__
 def main():
-    print("ORDENAR 6 NÚMEROS")
+    print("ORDENAR 3 NÚMEROS")
     lista = []
 
     lista.append( int(input("Introduzca el primer número: ")) )
